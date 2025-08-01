@@ -1,5 +1,5 @@
 {
-  "name": "bf-flooding-alert",
+  "name": "bf_flooding_alert",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -29,3 +29,4 @@
     "@types/google.maps": "^3.55.4"
   }
 }
+
