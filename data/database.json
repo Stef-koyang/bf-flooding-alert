@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "site": "Kintambo",
+    "capteur": "Capteur 1",
+    "numero": "+2430000001",
+    "temps": "08:45",
+    "lat": -4.309,
+    "lng": 15.2812,
+    "estimation": 70,
+    "timestamp": "2025-08-01T08:45:00.000Z"
+  },
+  {
+    "id": 2,
+    "site": "Bandal",
+    "capteur": "Capteur 2",
+    "numero": "+2430000002",
+    "temps": "09:15",
+    "lat": -4.3301,
+    "lng": 15.2661,
+    "estimation": 50,
+    "timestamp": "2025-08-01T09:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "site": "Kalamu",
+    "capteur": "Capteur 3",
+    "numero": "+2430000003",
+    "temps": "09:30",
+    "lat": -4.339,
+    "lng": 15.304,
+    "estimation": 60,
+    "timestamp": "2025-08-01T09:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "site": "Kingabwa",
+    "capteur": "Capteur 4",
+    "numero": "+2430000004",
+    "temps": "10:00",
+    "lat": -4.346,
+    "lng": 15.35,
+    "estimation": 40,
+    "timestamp": "2025-08-01T10:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "site": "Mbudi",
+    "capteur": "Capteur 5",
+    "numero": "+2430000005",
+    "temps": "10:30",
+    "lat": -4.463,
+    "lng": 15.1899,
+    "estimation": 55,
+    "timestamp": "2025-08-01T10:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "site": "Ndjili",
+    "capteur": "Capteur 6",
+    "numero": "+2430000006",
+    "temps": "11:00",
+    "lat": -4.385,
+    "lng": 15.506,
+    "estimation": 65,
+    "timestamp": "2025-08-01T11:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "site": "Gombe",
+    "capteur": "Capteur 7",
+    "numero": "+2430000007",
+    "temps": "11:30",
+    "lat": -4.327,
+    "lng": 15.3,
+    "estimation": 45,
+    "timestamp": "2025-08-01T11:30:00.000Z"
+  },
+  {
+    "id": 8,
+    "site": "Barumbu",
+    "capteur": "Capteur 8",
+    "numero": "+2430000008",
+    "temps": "12:00",
+    "lat": -4.335,
+    "lng": 15.29,
+    "estimation": 75,
+    "timestamp": "2025-08-01T12:00:00.000Z"
+  }
+]
